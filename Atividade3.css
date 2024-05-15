@@ -1,0 +1,57 @@
+div.qua1 {
+    background-color: rgb(72, 179, 72);
+    height: 95%;
+    margin: 25px;
+    width: 70px;
+    position: absolute;
+    border-radius: 20px;
+    }
+
+div.qua2 {
+    background-color: rgb(108, 151, 126);
+    position: fixed;
+    margin-left:125px;
+    margin-top: 25px;
+    width: 400px;
+    height:95%;
+    border-radius: 10px;
+    }
+div.qua3 {
+    background-color: rgb(141, 226, 176);
+    height: 95%;
+    margin-left: 29%;
+    margin-top: 25px;
+    width: 70px;
+    position: absolute;
+    border-radius: 20px;
+    }
+
+div.qua4 {
+    background-color: rgb(65, 71, 161);
+    position: fixed;
+    margin-left: 34.5%;
+    margin-top: 25px;
+    width: 400px;
+    height:95%;
+    border-radius: 10px;
+}
+
+div.qua5 {
+    background-color: rgb(111, 145, 125);
+    height: 95%;
+    margin-left: 57%;
+    margin-top: 25px;
+    width: 70px;
+    position: absolute;
+    border-radius: 20px;
+    }
+
+div.qua6 {
+    background-color: rgb(22, 235, 22);
+    position: fixed;
+    margin-left: 62.5%;
+    margin-top: 25px;
+    width: 400px;
+    height:95%;
+    border-radius: 10px;
+}

@@ -1,0 +1,48 @@
+div.qua1 {
+    background-color: rgb(22, 235, 22);
+    height: 100px;
+    width: 100%;
+    position: relative;
+    border-radius: 10px;
+    }
+
+div.qua2 {
+    background-color: rgb(108, 151, 126);
+    display: inline-block;
+    margin-top: 20px;
+    width: 200PX;
+    height:800px;
+    border-radius: 10px;
+    }
+div.qua3 {
+    background-color: rgb(141, 226, 176);
+    display: inline-block;
+    position: fixed;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 5px;
+    width: 1680px;
+    height:800px;
+    }
+
+div.qua4 {
+    background-color: rgb(65, 161, 105);
+    display: inline-flex;
+    margin-top: 40px;
+    margin-left: 40px;
+    width: 40%;
+    height:760px;
+    border-radius: 20px;
+    position: fixed;
+    }
+
+div.qua5 {
+    background-color: rgb(24, 53, 36);
+    display: inline-flex;
+    margin-top: 40px;
+    margin-left: 48%;
+    width: 39%;
+    height:760px;
+    border-radius: 20px;
+    position: fixed;
+    }

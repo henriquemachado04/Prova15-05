@@ -1,0 +1,112 @@
+div.qua1 {
+    background-color: rgb(22, 235, 22);
+    height: 300px;
+    margin: 25px;
+    width: 96%;
+    position: fixed;
+    border-radius: 20px;
+    }
+
+div.qua2 {
+    background-color: rgb(108, 151, 126);
+    position: fixed;
+    margin-left:90px;
+    margin-top: 45px;
+    width: 400px;
+    height:260px;
+    border-radius: 10px;
+    }
+div.qua3 {
+    background-color: rgb(141, 226, 176);
+    position: fixed;
+    display: flex;
+    margin-top: 45px;
+    margin-left: 28%;
+    width: 400px;
+    height:260px;
+    border-radius: 10px;
+    }
+
+div.qua4 {
+    background-color: rgb(65, 161, 105);
+    display: fixed;
+    margin-top: 45px;
+    margin-left: 51%;
+    width: 400px;
+    height:260px;
+    border-radius: 10px;
+    position: fixed;
+    }
+
+div.qua5 {
+    background-color: rgb(111, 145, 125);
+    display: fixed;
+    margin-left: 74%;
+    margin-top: 45px;
+    width: 400px;
+    height:260px;
+    border-radius: 10px;
+    position: fixed;
+    }
+
+div.qua6 {
+    background-color: rgb(22, 235, 22);
+    height: 500px;
+    width: 45%;
+    margin-top: 20%;
+    margin-left: 20px;
+    position: absolute;
+    
+    border-radius: 20px;
+    }
+
+div.qua7 {
+    background-color: rgb(4, 66, 4);
+    height: 500px;
+    width: 45%;
+    margin-top: 20%;
+    margin-left: 52.3%;
+    position: absolute;
+    
+    border-radius: 20px;
+    }
+    
+div.qua8 {
+    background-color: rgb(98, 122, 98);
+    height: 200px;
+    width: 43%;
+    margin-top: 22%;
+    margin-left: 40px;
+    position: absolute;
+    border-radius: 20px;
+    }
+
+div.qua9 {
+    background-color: rgb(0, 0, 0);
+    height: 200px;
+    width: 43%;
+    margin-top: 34%;
+    margin-left: 40px;
+    position: absolute;
+    border-radius: 20px;
+    }
+
+div.qua10 {
+    background-color: rgb(101, 102, 101);
+    height: 200px;
+    width: 43%;
+    margin-top: 22%;
+    margin-left: 53.2%;
+    position: absolute;
+    border-radius: 20px;
+    }
+
+div.qua11 {
+    background-color: rgb(252, 252, 252);
+    height: 200px;
+    width: 43%;
+    margin-top: 34%;
+    margin-left: 53.2%;
+    position: absolute;
+    border-radius: 20px;
+    }
